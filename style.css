@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0e0e0e;
+    color: #fff;
+}
+
+header {
+    text-align: center;
+    padding: 15px;
+    background: #161616;
+}
+
+#app-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 15px;
+    padding: 15px;
+}
+
+.app {
+    background: #1f1f1f;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.app img {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+}
+
+.app span {
+    display: block;
+    margin-top: 8px;
+    font-size: 14px;
+}
