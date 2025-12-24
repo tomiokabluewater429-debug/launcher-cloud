@@ -1,1 +1,12 @@
-
+[
+  {
+    "name": "Free Fire (Cloud)",
+    "icon": "https://SEUUSUARIO.github.io/launcher-cloud/images/icons/placeholder.png",
+    "url": "https://now.gg/play/garena/1234/free-fire"
+  },
+  {
+    "name": "GTA V (GeForce Now)",
+    "icon": "https://SEUUSUARIO.github.io/launcher-cloud/images/icons/placeholder.png",
+    "url": "https://www.nvidia.com/geforce-now/"
+  }
+]
