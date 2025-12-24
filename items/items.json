@@ -1,1 +1,16 @@
-
+[
+  {
+    "id": 1,
+    "name": "Item Básico",
+    "description": "Item gratuito do launcher",
+    "image": "https://SEUUSUARIO.github.io/launcher-cloud/images/icons/placeholder.png",
+    "type": "free"
+  },
+  {
+    "id": 2,
+    "name": "Item Premium",
+    "description": "Item especial online",
+    "image": "https://SEUUSUARIO.github.io/launcher-cloud/images/icons/placeholder.png",
+    "type": "premium"
+  }
+]
